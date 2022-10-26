@@ -1,3 +1,4 @@
 git_test_working/
-vivado.jou
-vivado.log
+git_test/
+vivado*.jou
+vivado*.log
